@@ -3,7 +3,7 @@
 - 🏫 Finished highschool at 'Mihai Eminescu' National College in Satu - Mare.
 - 🥉 @ Satu Mare Informatics County Olympiad
 - 🌱 I’m currently learning computer science(CS) at the Technical University of Cluj  Napoca. 
-- 👔 Intern at Nemetos 
+- 👔 Intern at Nemetos from Oct 2021 - Jan 2022
 - 📫 How to reach me:  
   📧 ursudanc@gmail.com
    📱 +40747430733 
