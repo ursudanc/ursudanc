@@ -6,6 +6,7 @@
 - 👔 Intern at Nemetos from Oct 2021 - Jan 2022
 - 👔 Intern at Nexttech from Feb 2022 - April 2022
 - 👔 Junior Java developer at Nexttech from May 2022
+- 👔 Developer at BT CodeCrafters
 - 📫 How to reach me:  
   📧 ursudanc@gmail.com
    📱 +40747430733 
