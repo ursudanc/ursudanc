@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, game development 🎮, challenging problems ,web applications 🕸️,artificial intelligence 🤖,sports 🏀 ⚽ 🏐 and parties 🥳!
 - 🏫 Finished highschool at 'Mihai Eminescu' National College in Satu - Mare.
 - 🥉 @ Satu Mare Informatics County Olympiad
-- 🌱 I’m currently learning computer science(CS) at the Technical University of Cluj  Napoca. 
+- 🌱 Finished bachelor degree at TUCN Automation and Computer Science
 - 👔 Intern at Nemetos from Oct 2021 - Jan 2022
 - 👔 Intern at Nexttech from Feb 2022 - April 2022
 - 👔 Junior Java developer at Nexttech from May 2022
